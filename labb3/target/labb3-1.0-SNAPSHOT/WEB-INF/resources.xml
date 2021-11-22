@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="Quizzes" type="javax.sql.DataSource">#Fri Nov 20 11:40:07 CET 2020
+password=hello
+jdbcDriver=com.mysql.cj.jdbc.Driver
+jdbcUrl=jdbc\:mysql\://localhost\:3306/labb3?zeroDateTimeBehavior\=CONVERT_TO_NULL
+userName=root
+</Resource>
+</resources>

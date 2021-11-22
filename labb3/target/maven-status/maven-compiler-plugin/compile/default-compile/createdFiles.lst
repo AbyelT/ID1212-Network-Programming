@@ -1,0 +1,12 @@
+Session\QuizzesFacade.class
+bean\ShowQuizWeb.class
+bean\GuessBean.class
+bean\User.class
+bean\Quiz.class
+Entity\Quizzes.class
+servlet\NumberGuess.class
+servlet\QuizServlet.class
+Entity\Quizzes_.class
+Session\AbstractFacade.class
+servlet\AdminServlet.class
+bean\Post.class
